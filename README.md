@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning B.E cse 
 - 💞️ I’m looking to collaborate on senior devloper
 - 📫 How to reach me media
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 karanmahipale/karanmahipale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
